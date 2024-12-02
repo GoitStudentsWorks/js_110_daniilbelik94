@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-blendet_09/",
+    "build": "vite build --base=/js_110_daniilbelik94/",
     "preview": "vite preview"
   },
   "devDependencies": {
